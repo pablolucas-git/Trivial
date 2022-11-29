@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trivial</string>
+    <string name="str_ciencia">Ciencia</string>
+    <string name="str_historia">Historia</string>
+    <string name="str_deportes">Deportes</string>
+    <string name="str_ocio">Ocio</string>
+</resources>
